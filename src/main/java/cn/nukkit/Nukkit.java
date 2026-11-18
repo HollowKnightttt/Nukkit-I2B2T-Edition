@@ -36,9 +36,9 @@ import java.util.Scanner;
 @Log4j2
 public class Nukkit {
 
-    public static final String NUKKIT_PM1E = "Nukkit PetteriM1 Edition";
+    public static final String NUKKIT_PM1E = "NUKKIT I2B2T EDITION";
     public static final String MAIN_BRANCH = "release";
-    static final String RELEASES = "https://api.github.com/repos/PetteriM1/NukkitPetteriM1Edition/releases";
+    static final String RELEASES = "https://api.github.com/HollowKnightttt/Nukkit-I2B2T-Edition/release";
     public final static Properties GIT_INFO = getGitInfo();
     public final static String VERSION = getVersion();
     public final static String PATH = System.getProperty("user.dir") + '/';
